@@ -146,7 +146,3 @@ Redis and Deno-Redlock utilize a monotonic time API to prevent errors due to ran
 3. Commit your changes (`git commit -am 'feature-added'`)
 4. Push to the branch (`git push origin your-new-feature`)
 5. Create a new Pull Request
-
-
-## Credit
-Big thanks to [Mike Marcacci](https://github.com/mike-marcacci) for the [Node.js implementation](https://github.com/mike-marcacci/node-redlock) of the Redlock algorithm.
